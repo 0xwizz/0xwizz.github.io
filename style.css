@@ -1,0 +1,8 @@
+.bp-widget-web {
+    height: 100vh !important;
+    width: 100vw !important;
+}
+
+.bp-widget-web-minimized {
+    display: none !important;
+}
